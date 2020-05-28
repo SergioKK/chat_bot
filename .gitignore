@@ -1,0 +1,7 @@
+.venv
+/venv
+.idea
+/dialogues.txt
+/intents.txt
+/intents_dataset.txt
+/prepeare_intents.py
